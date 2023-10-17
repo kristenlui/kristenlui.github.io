@@ -1,61 +1,80 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Lebin LEI",
+    "label": "Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "leilebin@smail.nju.cn",
+    "phone": "",
+    "url": "https://kristenlui.github.io//",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity"
-      ]
-    }
-  ],
+
+  
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "Nanjing University, China",
+      "url": "https://www.nju.edu.cn/",
+      "area": "Journalism and Communication",
+      "studyType": "Master",
+      "startDate": "2023-09-08",
+      "endDate": " ",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+        " "
+      ]
+    }
+      {
+      "institution": "South China University of Technology, China",
+      "url": "https://www.scut.edu.cn/",
+      "area": "Advertising",
+      "studyType": "Bachelor",
+      "startDate": "2019-09-20",
+      "endDate": "2023-07-01",
+      "score": "3.90/4",
+      "courses": [
+        " "
       ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "第13届“挑战杯”全国大学生创业计划大赛全国铜奖、广东省金奖",
+      "date": "2023-03",
+      "awarder": "共青团中央、教育部、人力资源社会保障部、中国科协、全国学联、北京市人民政府",
+      "summary": ""
+    }
+     {
+      "title": "第13届全国大学生广告艺术大赛策划案类全国二等奖、广东省二等奖",
+      "date": "2021-09",
+      "awarder": "中国高等教育学会",
+      "summary": ""
+    }
+    {
+      "title": "第13届全国大学生广告艺术大赛视频类全国三等奖、广东省一等奖",
+      "date": "2021-09",
+      "awarder": "中国高等教育学会",
+      "summary": ""
+    }
+      {
+      "title": "第8届中国大学生公共关系策划创业大赛全国二等奖",
+      "date": "2021-09",
+      "awarder": "中国国际公共关系学会",
+      "summary": ""
     }
   ],
   "certificates": [],
@@ -63,12 +82,16 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker"
     },
     {
       "language": "English",
       "fluency": "Fluent"
+    }
+     {
+      "language": "Cantonese",
+      "fluency": "Native speaker"
     }
   ],
   "interests": [],
