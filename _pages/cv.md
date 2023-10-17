@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 4
 cv_pdf: example_pdf.pdf
-description: 
+description: To learn more about me, please click on PDF.
 toc:
   sidebar: left
 ---
