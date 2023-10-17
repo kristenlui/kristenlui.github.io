@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>School of Journalism and Communication, Nanjing University</p>
-    <p>163 Xianlin Street, Qixia District, Nanjing, Jiangsu Province, China 210023</p>
+    <p>163 Xianlin Street, Qixia District, Nanjing, Jiangsu 210023</p>
     
 
 news: true  # includes a list of news items 
