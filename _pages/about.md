@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>School of Journalism and Communication, Nanjing University</p>
+    <p>163 Xianlin Street, Nanjing, Jiangsu Province 210023</p>
+    
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-雷乐彬，女，2001年10月生于广东广州。2023年毕业于华南理工大学广告学专业，现为南京大学新闻传播学院硕士在读。曾于小红书、南方精英传媒等企业实习。
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+雷乐彬，女，2001年10月生，广东广州人。本科毕业于华南理工大学广告学（品牌传播）专业，现为南京大学新闻与传播（数字营销传播方向）硕士在读。曾于小红书、南方精英传媒等企业实习；在全国“挑战杯”创业计划竞赛、中国大学生公共关系策划创业大赛、全国大学生广告艺术大赛等竞赛荣获7项国家级奖项；发表《数字海洋中的纸质方舟：计算广告时代纸媒的价值跃升和程序化融合》等2篇学术论文。
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
