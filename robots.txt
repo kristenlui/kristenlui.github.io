@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kristenlui.github.io/kristenlui/sitemap.xml
+Sitemap: https://kristenlui.github.io/sitemap.xml
