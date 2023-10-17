@@ -24,14 +24,14 @@
   },
   "work": [
     {
-      "name": "",
-      "position": "",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
+      "name": "Xiaohongshu",
+      "position": "MCN Operating Intern",
+      "url": "https://www.xiaohongshu.com/explore",
+      "startDate": "2022-12",
+      "endDate": "2023-06",
       "summary": "",
       "highlights": [
-        ""
+        "For details, please click on PDF."
       ]
     }
   ],
@@ -46,7 +46,7 @@
       "endDate": "NOW",
       "score": "",
       "courses": [
-        ""
+        "Digital Marketing"
       ]
     },
      {
@@ -58,15 +58,27 @@
       "endDate": "2023",
       "score": "",
       "courses": [
-        ""
+        "Computational Advertising, Brand Communication"
       ]
     }
   ],
   "awards": [
     {
-      "title": "第13届“挑战杯”全国大学生创业计划大赛全国铜奖、广东省金奖",
-      "date": "2023-03",
-      "awarder": "共青团中央、教育部、人力资源社会保障部、中国科协、全国学联、北京市人民政府",
+      "title": "第13届“挑战杯”全国大学生创业计划大赛",
+      "date": "2022-09",
+      "awarder": "全国铜奖、广东省金奖",
+      "summary": ""
+    },
+     {
+      "title": "第8届全国大学生广告艺术大赛",
+      "date": "2022-09",
+      "awarder": "策划案类全国二等奖；视频类全国三等奖",
+      "summary": ""
+    },
+     {
+      "title": "第8届中国大学生公共关系策划创业大赛",
+      "date": "2022-09",
+      "awarder": "全国二等奖",
       "summary": ""
     }
   ],
