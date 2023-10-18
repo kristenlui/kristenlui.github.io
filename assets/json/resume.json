@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Lebin LEI",
-    "label": "",
+    "Date of Birth": "22nd Oct, 2001",
     "image": "",
-    "email": "leilebin@smail.nju.edu.cn",
+    "Place of Birth": "Guangzhou, Guangdong",
     "phone": "",
-    "url": "https://kristenlui.github.io/",
+    "email": "leilebin@smail.nju.edu.cn",
     "summary": "",
     "location": {
       "address": "163 Xianlin Street",
