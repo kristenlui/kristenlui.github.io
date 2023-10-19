@@ -36,4 +36,3 @@ related_publications:
     拍摄记录
 </div>
 
-{% endraw %}
