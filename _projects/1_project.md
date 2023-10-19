@@ -19,13 +19,13 @@ related_publications:
 
 相关链接 →
 
-《不能忘却的记忆》南石头简介 | https://mp.weixin.qq.com/s/OlKW9hreLL7w-bcgdUEMjQ
+《不能忘却的记忆》南石头简介：https://mp.weixin.qq.com/s/OlKW9hreLL7w-bcgdUEMjQ
 
-关于南石头、南箕村往事征集启事 | https://mp.weixin.qq.com/s/Eua9KaME6gES9GoMCaz85Q
+关于南石头、南箕村往事征集启事：https://mp.weixin.qq.com/s/Eua9KaME6gES9GoMCaz85Q
 
-《百年初心》永远纪念我们的伯父 —— 革命烈士张肇志 | https://mp.weixin.qq.com/s/MviEWRW6nH287OltNJtn9g
+《百年初心》永远纪念我们的伯父 —— 革命烈士张肇志：https://mp.weixin.qq.com/s/MviEWRW6nH287OltNJtn9g
 
-《百年初心》寻找革命烈士张肇志的革命活动足迹 | https://mp.weixin.qq.com/s/_9-cXJGMJE7i7t-j7acpFA
+《百年初心》寻找革命烈士张肇志的革命活动足迹：https://mp.weixin.qq.com/s/_9-cXJGMJE7i7t-j7acpFA
 
 
 顾问 / 谭元亨
