@@ -15,6 +15,18 @@ related_publications:
 
 抽象的集体记忆必须转为个人的情感记忆，才能足够深刻；历史的使命需要被担在肩上，才真正有重量。谨以此片，献给正视历史、以人类和平为己任的研究人员、友好人士，同时也献给南石头细菌战中遇难的粤港民众。通过这部视频，我们希望让更多人了解南石头细菌战，更重要的是，希望让更多人加入到关注、铭记、传播和保护历史真相的队伍中来。
 
+观看视频 → https://mp.weixin.qq.com/s/50Rio4uCubZCHHToPNM31g
+
+相关链接 →
+
+《不能忘却的记忆》南石头简介 | https://mp.weixin.qq.com/s/OlKW9hreLL7w-bcgdUEMjQ
+
+关于南石头、南箕村往事征集启事 | https://mp.weixin.qq.com/s/Eua9KaME6gES9GoMCaz85Q
+
+《百年初心》永远纪念我们的伯父 —— 革命烈士张肇志 | https://mp.weixin.qq.com/s/MviEWRW6nH287OltNJtn9g
+
+《百年初心》寻找革命烈士张肇志的革命活动足迹 | https://mp.weixin.qq.com/s/_9-cXJGMJE7i7t-j7acpFA
+
 
 顾问 / 谭元亨
 
