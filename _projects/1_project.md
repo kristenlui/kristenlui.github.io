@@ -15,71 +15,39 @@ related_publications:
 
 抽象的集体记忆必须转为个人的情感记忆，才能足够深刻；历史的使命需要被担在肩上，才真正有重量。谨以此片，献给正视历史、以人类和平为己任的研究人员、友好人士，同时也献给南石头细菌战中遇难的粤港民众。通过这部视频，我们希望让更多人了解南石头细菌战，更重要的是，希望让更多人加入到关注、铭记、传播和保护历史真相的队伍中来。
 
+相关链接
+
+《不能忘却的记忆》南石头简介 | https://mp.weixin.qq.com/s/OlKW9hreLL7w-bcgdUEMjQ
+
+《不能忘却的记忆》压在心上的南石头 | https://mp.weixin.qq.com/s/50Rio4uCubZCHHToPNM31g
+
+关于南石头、南箕村往事征集启事 | https://mp.weixin.qq.com/s/Eua9KaME6gES9GoMCaz85Q
+
+《百年初心》永远纪念我们的伯父 —— 革命烈士张肇志 | https://mp.weixin.qq.com/s/MviEWRW6nH287OltNJtn9g
+
+《百年初心》寻找革命烈士张肇志的革命活动足迹 | https://mp.weixin.qq.com/s/_9-cXJGMJE7i7t-j7acpFA
+
+
+
 顾问 / 谭元亨
+
 团队 / 孙梦徽 雷乐彬 李淇 于晓雯 傅婧雯
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/微信图片_20231020010651.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/微信图片_20231020010648.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/微信图片_20231020010644.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    拍摄记录
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
 ```
 {% endraw %}
