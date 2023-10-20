@@ -15,7 +15,7 @@ related_publications:
 
 抽象的集体记忆必须转为个人的情感记忆，才能足够深刻；历史的使命需要被担在肩上，才真正有重量。谨以此片，献给正视历史、以人类和平为己任的研究人员、友好人士，同时也献给南石头细菌战中遇难的粤港民众。通过这部视频，我们希望让更多人了解南石头细菌战，更重要的是，希望让更多人加入到关注、铭记、传播和保护历史真相的队伍中来。
 
-<div class="row mt-3">
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.html path="https://www.bilibili.com/video/BV1gR4y1g7a1/?share_source=copy_web" class="img-fluid rounded z-depth-1" %}
     </div>
