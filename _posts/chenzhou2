@@ -1,0 +1,54 @@
+---
+layout: post
+title:  郴州之行2
+date: 2024-01-15 21:01:00
+description: 三天两夜的呼吸~
+tags: 日常
+thumbnail: assets/img/主.jpg
+---
+Day1. 广州站→郴州站→苏仙岭→裕后街→小东江民宿
+
+Day2. 砍肉粉→高椅岭→白廊
+
+Day3. 杀猪粉→东江湖→回龙山→回程
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/16.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/17.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    
+</div>
+
+高椅岭★★★★  蛮出片的，but爬山太太太太太太累啦HAHAHAHAHA！！！
+    
+白廊★★★ 出片＋1， 但周围的环境真不怎么样
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/18.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/13.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+东江湖★ 被坑到了，体验感很差，没有进到真正的景区，也没看到撒网还有其他表演:(sad
+
+回龙山★★★★ 意外的收获，很美，但一定得包车哦~
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/15.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/12.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/14.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
