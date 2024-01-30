@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-2024 IS COMING!
+2024 is coming!
