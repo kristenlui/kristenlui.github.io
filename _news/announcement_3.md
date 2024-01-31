@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My personal website is online! :sparkles: :smile:
+2024 is coming! :sparkles: :smile:
