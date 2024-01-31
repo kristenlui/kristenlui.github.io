@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-01-01 00:00:00-0400
+date: 2023-10-17 00:00:00-0400
 inline: true
 related_posts: false
 ---
 
-2024 is coming! :sparkles: :smile:
+My personal website is online! :sparkles: :smile:
